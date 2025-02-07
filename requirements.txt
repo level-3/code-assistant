@@ -1,1 +1,5 @@
 streamlit
+anthropic
+openai
+langchain_core
+langchain_anthropic
